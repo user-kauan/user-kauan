@@ -4,7 +4,6 @@
 
 <p align="center">
   📍 Rio de Janeiro, Brasil &nbsp;·&nbsp;
-  🔗 <a href="https://www.linkedin.com/in/https://github.com/user-kauan">LinkedIn</a>
 </p>
 
 ---
