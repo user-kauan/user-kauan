@@ -26,7 +26,7 @@
 **[Arduino Nano Motor Controller](https://github.com/user-kauan/arduino-nano-motor-controller)**
 Placa de circuito impresso baseada em Arduino Nano para controle PWM de motores DC, com telemetria de corrente, tensão, temperatura e rotação, e proteção térmica automática.
 
-**Aegis** *(em desenvolvimento)*
+**[Aegis](https://github.com/user-kauan/aegis-safety-ai))**
 Sistema de segurança industrial que integra Inteligência Artificial e Automação (AIoT) para detectar em tempo real a ausência de EPI e interromper automaticamente a máquina, em conformidade com os princípios da NR-12.
 
 ---
