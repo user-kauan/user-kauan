@@ -8,12 +8,6 @@
 
 ---
 
-### 🧠 Sobre mim
-
-Sou estudante de Eletromecânica, com experiência prática em instalações elétricas, mecânica automotiva e eletrônica. Desenvolvo projetos de automação e sistemas embarcados do circuito ao protótipo funcional — do esquemático no KiCad até a placa fabricada e o firmware rodando de verdade.
-
----
-
 ### 🛠️ Tecnologias e ferramentas
 
 <p align="left">
