@@ -2,10 +2,6 @@
   Técnico em Eletromecânica | Automação Industrial, IoT e Sistemas Embarcados
 </p>
 
-<p align="center">
-  📍 Rio de Janeiro, Brasil &nbsp;·&nbsp;
-</p>
-
 ---
 
 ### 🛠️ Tecnologias e ferramentas
