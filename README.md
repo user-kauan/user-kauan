@@ -27,8 +27,6 @@ Sistema de segurança industrial que integra Inteligência Artificial e Automaç
 
 ---
 
-### 📊 Estatísticas
-
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=user-kauan&show_icons=true&theme=dark&hide_border=true" />
 </p>
